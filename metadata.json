@@ -1,0 +1,6 @@
+{
+  "name": "MCQ Studio Pro",
+  "description": "Universal 16:9 MCQ video creator with InShot-style hardware MediaCodec zero-frame-drop video rendering",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

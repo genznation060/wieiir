@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer rounded monitor / screen frame -->
+    <path
+        android:fillColor="#12231A"
+        android:strokeColor="#22C55E"
+        android:strokeWidth="2.5"
+        android:pathData="M30,32 h48 a6,6 0 0 1 6,6 v36 a6,6 0 0 1 -6,6 h-48 a6,6 0 0 1 -6,-6 v-36 a6,6 0 0 1 6,-6 z" />
+
+    <!-- Top header film banner -->
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M30,32 h48 a6,6 0 0 1 6,6 v6 h-60 v-6 a6,6 0 0 1 6,-6 z" />
+
+    <!-- Film stripes on top banner -->
+    <path
+        android:fillColor="#070B09"
+        android:pathData="M35,32 l5,12 h4 l-5,-12 z M49,32 l5,12 h4 l-5,-12 z M63,32 l5,12 h4 l-5,-12 z" />
+
+    <!-- Play button triangle in center (gold) -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M48,51 L62,59 L48,67 Z" />
+
+    <!-- MCQ Checkmark Badge (bottom right corner of screen) -->
+    <path
+        android:fillColor="#22C55E"
+        android:strokeColor="#070B09"
+        android:strokeWidth="2"
+        android:pathData="M74,74m-10,0a10,10 0 1,1 20,0a10,10 0 1,1 -20,0" />
+
+    <!-- Checkmark white icon inside badge -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M69,74 L73,78 L80,70" />
+</vector>
